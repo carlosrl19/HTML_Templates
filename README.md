@@ -9,3 +9,7 @@ Serie de plantillas que he encontrado en línea para poder usar en mis proyectos
 
 - Miminium
 ![image](https://github.com/carlosrl19/HTML_Templates/assets/85375012/ccc79b3a-7fbf-4434-b5be-825399b0abfe)
+
+- SB Admin 2
+![image](https://github.com/carlosrl19/HTML_Templates/assets/85375012/f1f499a2-a62d-4d82-b729-31aee22c75f8)
+
